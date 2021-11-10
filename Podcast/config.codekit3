@@ -465,6 +465,45 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/images\/sign_in.jpeg" : {
+      "ft" : 16384,
+      "iS" : 96869,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/sign_in.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/sign_in.jpg" : {
+      "ft" : 16384,
+      "iS" : 33417,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/sign_in.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/sign_up.jpeg" : {
+      "ft" : 16384,
+      "iS" : 17070,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/sign_up.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/index.html" : {
       "cB" : 0,
       "ft" : 8192,
@@ -579,6 +618,22 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/sign-in.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/sign-in.html",
+      "oF" : 0
+    },
+    "\/sign-up.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/sign-up.html",
+      "oF" : 0
     }
   },
   "hooks" : [
