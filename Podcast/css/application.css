@@ -55,6 +55,99 @@ body {
   background: #ececec;
 }
 
+#main_header {
+  color: #22292e;
+  background: #FFFFFF;
+  padding: 2.5rem 0;
+}
+
+#logo {
+  float: left;
+  text-transform: uppercase;
+  font-weight: 700;
+  color: #22292e;
+  text-decoration: none;
+  font-size: 1.2rem;
+}
+
+nav {
+  float: right;
+}
+nav ul {
+  list-style: none;
+  margin: 0;
+}
+nav ul li {
+  display: inline;
+  margin-left: 2.5rem;
+}
+nav ul a {
+  color: #22292e;
+  text-decoration: none;
+}
+
+#banner {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  margin-bottom: 4rem;
+}
+#banner h1 {
+  text-align: center;
+  color: #FFFFFF;
+  font-size: 3rem;
+  font-weight: 300;
+  letter-spacing: 1px;
+  margin: 0;
+  padding: 12rem 0;
+}
+
+.podcast_banner {
+  background-image: url(../images/podcasts_background.jpeg);
+}
+
+.pagination:before, .pagination:after {
+  content: " ";
+  display: table;
+}
+
+.pagination:after {
+  clear: both;
+}
+
+.pagination {
+  text-align: center;
+  margin: 1rem 0 5rem 0;
+}
+.pagination a, .pagination .previous_page, .pagination .next_page {
+  padding: 0.75rem 1rem;
+  margin: 0 0.25rem;
+  border-radius: 0.15rem;
+  line-height: 1.25rem;
+  text-decoration: none;
+  background: #EDEFF5;
+  font-weight: 700;
+  font-size: 0.7rem;
+  font-style: normal;
+  color: #22292e;
+}
+.pagination a:hover, .pagination .previous_page:hover, .pagination .next_page:hover {
+  background: #d2674e;
+  color: #FFFFFF;
+}
+.pagination .current {
+  padding: 0.5rem 0.7rem;
+  background: #d2674e;
+  color: #FFFFFF;
+}
+.pagination .disabled {
+  color: #C0C0C0;
+}
+.pagination .disabled:hover {
+  color: #C0C0C0;
+  background: #EDEFF5;
+}
+
 #background {
   background-image: url(../images/homepage_background.jpeg);
   height: 100vh;
@@ -63,7 +156,7 @@ body {
   text-align: center;
 }
 #background header {
-  padding: 2rem 0;
+  padding: 4rem 0;
 }
 #background header #logo {
   float: left;
@@ -71,6 +164,7 @@ body {
   font-weight: 700;
   color: #FFFFFF;
   text-decoration: none;
+  font-size: 2rem;
 }
 #background header nav {
   float: right;
@@ -95,7 +189,7 @@ body {
   margin: 6rem 0 2rem 0;
 }
 #background .button {
-  margin: 1.2rem 2.5% 0 2.5%;
+  margin: 1.5rem 2.5% 0 2.5%;
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
@@ -435,4 +529,46 @@ template {
  */
 [hidden] {
   display: none;
+}
+
+#podcasts {
+  padding-bottom: 3rem;
+}
+#podcasts ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+#podcasts ul li {
+  width: 23%;
+  float: left;
+  margin: 0 1% 2rem 1%;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.25);
+  box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.25);
+  border-radius: 0.35rem;
+}
+#podcasts ul li img {
+  width: 100%;
+  max-width: 100%;
+  border-radius: 0.35rem 0.35rem 0 0;
+}
+#podcasts ul li .podcast_overview {
+  padding: 1rem 7.5%;
+}
+#podcasts ul li .podcast_overview h2 {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 700;
+  color: #22292e;
+}
+#podcasts ul li .podcast_overview .episode_count {
+  color: #8c9daa;
+  font-size: 0.9rem;
+  margin: 0.5rem 0 0.25rem 0;
+}
+#podcasts ul li:hover img {
+  opacity: 0.8;
+}
+#podcasts ul li:hover .podcast_overview h2 {
+  color: #d2674e;
 }

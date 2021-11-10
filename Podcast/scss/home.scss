@@ -6,13 +6,14 @@
 	text-align: center;
 
 header {
-	padding: 2rem 0;
+	padding: 4rem 0;
 		#logo {
 			float: left;
 			text-transform: uppercase;
 			font-weight: 700;
 			color: $white;
 			text-decoration: none;
+			font-size: 2rem;
 		}
 		
 		nav {
@@ -43,6 +44,7 @@ header {
 				margin: 6rem 0 2rem 0;
 			}
 	.button {
-		margin:  1.2rem 2.5% 0 2.5%;
+		margin:  1.5rem 2.5% 0 2.5%;
 	}
 }
+
