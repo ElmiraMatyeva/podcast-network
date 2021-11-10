@@ -46,6 +46,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/images\/1.jpg" : {
+      "ft" : 16384,
+      "iS" : 35709,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/images\/2.jpeg" : {
       "ft" : 16384,
       "iS" : 113579,
@@ -98,6 +111,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/images\/4.jpg" : {
+      "ft" : 16384,
+      "iS" : 57680,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/4.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/images\/5.jpeg" : {
       "ft" : 16384,
       "iS" : 83164,
@@ -124,6 +150,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/images\/6.jpg" : {
+      "ft" : 16384,
+      "iS" : 44014,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/6.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/images\/7.jpeg" : {
       "ft" : 16384,
       "iS" : 133500,
@@ -133,6 +172,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/7.jpg" : {
+      "ft" : 16384,
+      "iS" : 40252,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/7.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -150,6 +202,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/images\/8.jpg" : {
+      "ft" : 16384,
+      "iS" : 52826,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/8.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/images\/9.jpeg" : {
       "ft" : 16384,
       "iS" : 42744,
@@ -159,6 +224,19 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/9.jpg" : {
+      "ft" : 16384,
+      "iS" : 45099,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/9.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75
@@ -176,6 +254,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/images\/10.jpg" : {
+      "ft" : 16384,
+      "iS" : 44061,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/10.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/images\/11.jpeg" : {
       "ft" : 16384,
       "iS" : 84537,
@@ -189,12 +280,116 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/images\/11.jpg" : {
+      "ft" : 16384,
+      "iS" : 48790,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/11.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/images\/12.jpeg" : {
       "ft" : 16384,
       "iS" : 69417,
       "jF" : 0,
       "oA" : 0,
       "oAP" : "\/images\/12.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/episode1.jpeg" : {
+      "ft" : 16384,
+      "iS" : 151187,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/episode1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/episode1.jpg" : {
+      "ft" : 16384,
+      "iS" : 89201,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/episode1.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/episode2.jpeg" : {
+      "ft" : 16384,
+      "iS" : 94742,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/episode2.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/episode3.jpeg" : {
+      "ft" : 16384,
+      "iS" : 70810,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/episode3.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/episode4.jpeg" : {
+      "ft" : 16384,
+      "iS" : 141875,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/episode4.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/episode5.jpeg" : {
+      "ft" : 16384,
+      "iS" : 78963,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/episode5.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/images\/episode6.jpeg" : {
+      "ft" : 16384,
+      "iS" : 90761,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/images\/episode6.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -260,6 +455,14 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/index.html",
+      "oF" : 0
+    },
+    "\/podcast_show.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/podcast_show.html",
       "oF" : 0
     },
     "\/podcasts.html" : {
